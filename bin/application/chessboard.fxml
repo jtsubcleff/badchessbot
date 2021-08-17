@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.layout.Pane?>
+<?import javafx.scene.shape.Rectangle?>
+
+<Pane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="800.0" prefWidth="1280.0" xmlns="http://javafx.com/javafx/8.0.171" xmlns:fx="http://javafx.com/fxml/1">
+   <children>
+      <AnchorPane maxHeight="1.7976931348623157E308" maxWidth="1.7976931348623157E308" minHeight="-Infinity" minWidth="-Infinity">
+         <children>
+            <AnchorPane>
+               <children>
+                  <Pane prefHeight="76.0" prefWidth="76.0">
+                     <children>
+                        <Rectangle fill="WHITE" height="38.0" smooth="false" stroke="BLACK" strokeType="INSIDE" width="38.0" />
+                        <Rectangle height="38.0" layoutY="38.0" stroke="BLACK" strokeType="INSIDE" width="38.0" />
+                        <Rectangle fill="WHITE" height="38.0" layoutX="38.0" layoutY="38.0" stroke="BLACK" strokeType="INSIDE" width="38.0" />
+                        <Rectangle height="38.0" layoutX="38.0" smooth="false" stroke="BLACK" strokeType="INSIDE" width="38.0" />
+                     </children>
+                  </Pane>
+                  <Pane layoutY="76.0" prefHeight="76.0" prefWidth="76.0">
+                     <children>
+                        <Rectangle fill="WHITE" height="38.0" smooth="false" stroke="BLACK" strokeType="INSIDE" width="38.0" />
+                        <Rectangle height="38.0" layoutY="38.0" stroke="BLACK" strokeType="INSIDE" width="38.0" />
+                        <Rectangle fill="WHITE" height="38.0" layoutX="38.0" layoutY="38.0" stroke="BLACK" strokeType="INSIDE" width="38.0" />
+                        <Rectangle height="38.0" layoutX="38.0" smooth="false" stroke="BLACK" strokeType="INSIDE" width="38.0" />
+                     </children>
+                  </Pane>
+                  <Pane layoutX="76.0" layoutY="76.0" prefHeight="76.0" prefWidth="76.0">
+                     <children>
+                        <Rectangle fill="WHITE" height="38.0" smooth="false" stroke="BLACK" strokeType="INSIDE" width="38.0" />
+                        <Rectangle height="38.0" layoutY="38.0" stroke="BLACK" strokeType="INSIDE" width="38.0" />
+                        <Rectangle fill="WHITE" height="38.0" layoutX="38.0" layoutY="38.0" stroke="BLACK" strokeType="INSIDE" width="38.0" />
+                        <Rectangle height="38.0" layoutX="38.0" smooth="false" stroke="BLACK" strokeType="INSIDE" width="38.0" />
+                     </children>
+                  </Pane>
+                  <Pane layoutX="76.0" prefHeight="76.0" prefWidth="76.0">
+                     <children>
+                        <Rectangle fill="WHITE" height="38.0" smooth="false" stroke="BLACK" strokeType="INSIDE" width="38.0" />
+                        <Rectangle height="38.0" layoutY="38.0" stroke="BLACK" strokeType="INSIDE" width="38.0" />
+                        <Rectangle fill="WHITE" height="38.0" layoutX="38.0" layoutY="38.0" stroke="BLACK" strokeType="INSIDE" width="38.0" />
+                        <Rectangle height="38.0" layoutX="38.0" smooth="false" stroke="BLACK" strokeType="INSIDE" width="38.0" />
+                     </children>
+                  </Pane>
+               </children>
+            </AnchorPane>
+            <AnchorPane layoutY="152.0">
+               <children>
+                  <Pane prefHeight="76.0" prefWidth="76.0">
+                     <children>
+                        <Rectangle fill="WHITE" height="38.0" smooth="false" stroke="BLACK" strokeType="INSIDE" width="38.0" />
+                        <Rectangle height="38.0" layoutY="38.0" stroke="BLACK" strokeType="INSIDE" width="38.0" />
+                        <Rectangle fill="WHITE" height="38.0" layoutX="38.0" layoutY="38.0" stroke="BLACK" strokeType="INSIDE" width="38.0" />
+                        <Rectangle height="38.0" layoutX="38.0" smooth="false" stroke="BLACK" strokeType="INSIDE" width="38.0" />
+                     </children>
+                  </Pane>
+                  <Pane layoutY="76.0" prefHeight="76.0" prefWidth="76.0">
+                     <children>
+                        <Rectangle fill="WHITE" height="38.0" smooth="false" stroke="BLACK" strokeType="INSIDE" width="38.0" />
+                        <Rectangle fx:id="a1" height="38.0" layoutY="38.0" stroke="BLACK" strokeType="INSIDE" width="38.0" />
+                        <Rectangle fx:id="b1" fill="WHITE" height="38.0" layoutX="38.0" layoutY="38.0" stroke="BLACK" strokeType="INSIDE" width="38.0" />
+                        <Rectangle height="38.0" layoutX="38.0" smooth="false" stroke="BLACK" strokeType="INSIDE" width="38.0" />
+                     </children>
+                  </Pane>
+                  <Pane layoutX="76.0" layoutY="76.0" prefHeight="76.0" prefWidth="76.0">
+                     <children>
+                        <Rectangle fill="WHITE" height="38.0" smooth="false" stroke="BLACK" strokeType="INSIDE" width="38.0" />
+                        <Rectangle fx:id="c1" height="38.0" layoutY="38.0" stroke="BLACK" strokeType="INSIDE" width="38.0" />
+                        <Rectangle fx:id="d1" fill="WHITE" height="38.0" layoutX="38.0" layoutY="38.0" stroke="BLACK" strokeType="INSIDE" width="38.0" />
+                        <Rectangle height="38.0" layoutX="38.0" smooth="false" stroke="BLACK" strokeType="INSIDE" width="38.0" />
+                     </children>
+                  </Pane>
+                  <Pane layoutX="76.0" prefHeight="76.0" prefWidth="76.0">
+                     <children>
+                        <Rectangle fill="WHITE" height="38.0" smooth="false" stroke="BLACK" strokeType="INSIDE" width="38.0" />
+                        <Rectangle height="38.0" layoutY="38.0" stroke="BLACK" strokeType="INSIDE" width="38.0" />
+                        <Rectangle fill="WHITE" height="38.0" layoutX="38.0" layoutY="38.0" stroke="BLACK" strokeType="INSIDE" width="38.0" />
+                        <Rectangle height="38.0" layoutX="38.0" smooth="false" stroke="BLACK" strokeType="INSIDE" width="38.0" />
+                     </children>
+                  </Pane>
+               </children>
+            </AnchorPane>
+            <AnchorPane layoutX="152.0" layoutY="152.0">
+               <children>
+                  <Pane prefHeight="76.0" prefWidth="76.0">
+                     <children>
+                        <Rectangle fill="WHITE" height="38.0" smooth="false" stroke="BLACK" strokeType="INSIDE" width="38.0" />
+                        <Rectangle height="38.0" layoutY="38.0" stroke="BLACK" strokeType="INSIDE" width="38.0" />
+                        <Rectangle fill="WHITE" height="38.0" layoutX="38.0" layoutY="38.0" stroke="BLACK" strokeType="INSIDE" width="38.0" />
+                        <Rectangle height="38.0" layoutX="38.0" smooth="false" stroke="BLACK" strokeType="INSIDE" width="38.0" />
+                     </children>
+                  </Pane>
+                  <Pane layoutY="76.0" prefHeight="76.0" prefWidth="76.0">
+                     <children>
+                        <Rectangle fill="WHITE" height="38.0" smooth="false" stroke="BLACK" strokeType="INSIDE" width="38.0" />
+                        <Rectangle fx:id="e1" height="38.0" layoutY="38.0" stroke="BLACK" strokeType="INSIDE" width="38.0" />
+                        <Rectangle fx:id="f1" fill="WHITE" height="38.0" layoutX="38.0" layoutY="38.0" stroke="BLACK" strokeType="INSIDE" width="38.0" />
+                        <Rectangle height="38.0" layoutX="38.0" smooth="false" stroke="BLACK" strokeType="INSIDE" width="38.0" />
+                     </children>
+                  </Pane>
+                  <Pane layoutX="76.0" layoutY="76.0" prefHeight="76.0" prefWidth="76.0">
+                     <children>
+                        <Rectangle fill="WHITE" height="38.0" smooth="false" stroke="BLACK" strokeType="INSIDE" width="38.0" />
+                        <Rectangle fx:id="g1" height="38.0" layoutY="38.0" stroke="BLACK" strokeType="INSIDE" width="38.0" />
+                        <Rectangle fx:id="h1" fill="WHITE" height="38.0" layoutX="38.0" layoutY="38.0" stroke="BLACK" strokeType="INSIDE" width="38.0" />
+                        <Rectangle height="38.0" layoutX="38.0" smooth="false" stroke="BLACK" strokeType="INSIDE" width="38.0" />
+                     </children>
+                  </Pane>
+                  <Pane layoutX="76.0" prefHeight="76.0" prefWidth="76.0">
+                     <children>
+                        <Rectangle fill="WHITE" height="38.0" smooth="false" stroke="BLACK" strokeType="INSIDE" width="38.0" />
+                        <Rectangle height="38.0" layoutY="38.0" stroke="BLACK" strokeType="INSIDE" width="38.0" />
+                        <Rectangle fill="WHITE" height="38.0" layoutX="38.0" layoutY="38.0" stroke="BLACK" strokeType="INSIDE" width="38.0" />
+                        <Rectangle height="38.0" layoutX="38.0" smooth="false" stroke="BLACK" strokeType="INSIDE" width="38.0" />
+                     </children>
+                  </Pane>
+               </children>
+            </AnchorPane>
+            <AnchorPane layoutX="152.0">
+               <children>
+                  <Pane prefHeight="76.0" prefWidth="76.0">
+                     <children>
+                        <Rectangle fill="WHITE" height="38.0" smooth="false" stroke="BLACK" strokeType="INSIDE" width="38.0" />
+                        <Rectangle height="38.0" layoutY="38.0" stroke="BLACK" strokeType="INSIDE" width="38.0" />
+                        <Rectangle fill="WHITE" height="38.0" layoutX="38.0" layoutY="38.0" stroke="BLACK" strokeType="INSIDE" width="38.0" />
+                        <Rectangle height="38.0" layoutX="38.0" smooth="false" stroke="BLACK" strokeType="INSIDE" width="38.0" />
+                     </children>
+                  </Pane>
+                  <Pane layoutY="76.0" prefHeight="76.0" prefWidth="76.0">
+                     <children>
+                        <Rectangle fill="WHITE" height="38.0" smooth="false" stroke="BLACK" strokeType="INSIDE" width="38.0" />
+                        <Rectangle height="38.0" layoutY="38.0" stroke="BLACK" strokeType="INSIDE" width="38.0" />
+                        <Rectangle fill="WHITE" height="38.0" layoutX="38.0" layoutY="38.0" stroke="BLACK" strokeType="INSIDE" width="38.0" />
+                        <Rectangle height="38.0" layoutX="38.0" smooth="false" stroke="BLACK" strokeType="INSIDE" width="38.0" />
+                     </children>
+                  </Pane>
+                  <Pane layoutX="76.0" layoutY="76.0" prefHeight="76.0" prefWidth="76.0">
+                     <children>
+                        <Rectangle fill="WHITE" height="38.0" smooth="false" stroke="BLACK" strokeType="INSIDE" width="38.0" />
+                        <Rectangle height="38.0" layoutY="38.0" stroke="BLACK" strokeType="INSIDE" width="38.0" />
+                        <Rectangle fill="WHITE" height="38.0" layoutX="38.0" layoutY="38.0" stroke="BLACK" strokeType="INSIDE" width="38.0" />
+                        <Rectangle height="38.0" layoutX="38.0" smooth="false" stroke="BLACK" strokeType="INSIDE" width="38.0" />
+                     </children>
+                  </Pane>
+                  <Pane layoutX="76.0" prefHeight="76.0" prefWidth="76.0">
+                     <children>
+                        <Rectangle fill="WHITE" height="38.0" smooth="false" stroke="BLACK" strokeType="INSIDE" width="38.0" />
+                        <Rectangle height="38.0" layoutY="38.0" stroke="BLACK" strokeType="INSIDE" width="38.0" />
+                        <Rectangle fill="WHITE" height="38.0" layoutX="38.0" layoutY="38.0" stroke="BLACK" strokeType="INSIDE" width="38.0" />
+                        <Rectangle height="38.0" layoutX="38.0" smooth="false" stroke="BLACK" strokeType="INSIDE" width="38.0" />
+                     </children>
+                  </Pane>
+               </children>
+            </AnchorPane>
+         </children>
+      </AnchorPane>
+   </children>
+</Pane>
